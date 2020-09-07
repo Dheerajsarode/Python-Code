@@ -88,8 +88,8 @@ def Send_text_mail():
         #import smtplib
         #from email.mime.multipart import MIMEMultipart
         #from email.mime.text import MIMEText
-	fromaddr = "mbsubdt796@gmail.com"
-	toaddr = "mash7bs@gmail.com"
+	fromaddr = "xxx@gmail.com"
+	toaddr = "yyy@gmail.com"
 	msg = MIMEMultipart()
 	msg['From'] = fromaddr
 	msg['To'] = toaddr
