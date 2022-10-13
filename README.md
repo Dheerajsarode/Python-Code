@@ -1,5 +1,5 @@
 # Python-Code
-# Drowsy Driving Detection &amp; Traffic Collision Information System With Obstacle Detection System
+# Drowsy Driving Detection &amp; Traffic Collision Information System With Obstacle Detection System; My engineering project
 
 from scipy.spatial import distance
 from imutils import face_utils
